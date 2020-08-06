@@ -1,5 +1,5 @@
 # dws3
-Lifetime digital workspace 3 platform
+Lifetime™Digital Workspace 3 - The Cloud sourcing and delivery Platform/ App for Enterprise ecosystems
 https://dev.azure.com/ristopaarni0304/
 https://lifetime.fi/dws3
 
