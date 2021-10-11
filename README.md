@@ -1,7 +1,9 @@
 # dws3
-Lifetime™Digital Workspace - The Cloud sourcing and delivery Platform/ App for Enterprise ecosystems
-https://dev.azure.com/ristopaarni0304/
-https://lifetime.fi/dws
+✨ Lifetime™Digital Workspace ✨ </n>
+<p> The Cloud Teams Sourcing and Delivery Platform for smart industries and Mobile AR App for Enterprise ecosystem development. </p>
+https://dev.azure.com/ristopaarni0304/ </n>
+
+https://lifetime.fi/dws</n>
 
 Lifetime™Digital Workspace  - The Cloud sourcing and delivery Platform/ App for Enterprise ecosystems Project Development designed to automate, deliver, manage, collaborate with Lifetime™Digital Workers and Cloud™Ready Teams.
 
