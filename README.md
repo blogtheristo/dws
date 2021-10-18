@@ -1,7 +1,7 @@
 # dws 4 Platform
 ✨ Lifetime™Digital Workspace ✨ </n>
-<p> The Cloud Teams Sourcing and digital Delivery Platform for Smart industries, </p>
-<p> and the dws Mobile AR App for </p>
+<p> The Cloud Teams Sourcing and digital Delivery Platform for Smart industries</p>
+<p> and the dws Virtual App for </p>
 <p> the Enterprise Green ecosystem development based on H2 economy. </p>
 <p></p>
 <p> Developer Portal Beta Program: https://dev.azure.com/ristopaarni0304/ </p>
