@@ -3,8 +3,13 @@
 ✨ Lifetime™Digital Workspace ✨
 
 Lifetime™Digital Workspace (dws4) is a Cognitive Decisioning Management Platform for intelligent industries that need automated processes and virtual live teams for their cloud resource sourcing and delivery for their enterprise project development.
+
 dws4 is built on cloud native and it uses smart contracts for paying the developers using ethereum 2.0 protocol.
-It transforms the experience into virtual and automates the process of solving 6 XGs experience gaps (CX, EX, PX, OX, LX, TX) into tangible business benefits.
+ 
+ ## Tangible business benefits
+ 
+It transforms the experience into virtual and automates the process of solving 6 XGs experience gaps (CX, EX, PX, OX, LX, TX) into tangible business benefits of Customer engagement (), Employee experience(), Partner experience(), Owner experience(), Leadership experience, Tooling experience.
+
 dws4 is ideal for building enterprise ecosystem development based on a sustainable World and H2 economy.
 
 Cognitive virtual decisioning platform | Situation Room |  Automated Cloud Ready Teams & Digital Workforce | Industrial Cloud AIoT  | enterprise ecosystem APIs | Innovation Studio | SaaS DevOps Centre | 3rd Party Services |  Certified Partner Consulting |  Freelancers |  API Integration ecosystem | Container Best Practices | Security | Cloud delivery  | Cloud sourcing |  Smart Contract Payments | dApp Platform.
