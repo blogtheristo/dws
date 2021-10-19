@@ -9,18 +9,21 @@ dws4 is ideal for building enterprise ecosystem development based on a sustainab
 
 Cognitive virtual decisioning platform | Situation Room |  Automated Cloud Ready Teams & Digital Workforce | Industrial Cloud AIoT  | enterprise ecosystem APIs | Innovation Studio | SaaS DevOps Centre | 3rd Party Services |  Certified Partner Consulting |  Freelancers |  API Integration ecosystem | Container Best Practices | Security | Cloud delivery  | Cloud sourcing |  Smart Contract Payments | dApp Platform.
 
- Developer Portal Beta Program: <https://dev.azure.com/ristopaarni0304/>
+Developer Portal Beta Program: <https://dev.azure.com/ristopaarni0304/>
+
 Lifetime Certified Partners Consortium: <https://lifetime.fi/partners>
+
 Join the DWS Developer team: <https://lifetime.fi/careers>
+
 dws Public Access DevOps: <https://dev.azure.com/blogtheristo2021/dws%20Platform%204>
+
 dws Marketing Page: <https://lifetime.fi/dws>
+
 Investor Insights (invitation contact blogtheristo@lifetime.fi : <https://lifetime.fi/investor>
-</n>
-</n>
+
 ✨ Lifetime™Digital Workspace  - The Cloud sourcing and delivery Platform/ App for Enterprise ecosystems ✨ </n>
 
-The Cloud Teams Sourcing and digital Delivery Platform for intelligent industries
-</n>
+## The Cloud Teams Sourcing and digital Delivery Platform for intelligent industries
 
 ## About the dws4 project
 
