@@ -28,31 +28,32 @@ dws4 is designed to automate, deliver, manage, collaborate with LifetimeTMDigita
 
 Project Montreux is (dws4) ongoing. The Project Development phase is presented in the Project Montreux PP. Please contact blogtheristo@lifetime.fi to see the latest.
 
-dws4 on GitHub.
+[Project Montreux GitHub Kanban is here](<https://github.com/blogtheristo/dws/projects/1>).
+
 ### Fundraising
 
 We accept new investors who share our insight of the need for a platform for intelligent industries.
 
 (281021).
 
-Developer Portal Beta Program: <https://dev.azure.com/ristopaarni0304/>
+### More information about Project Montreux
 
-Lifetime Certified Partners Consortium: <https://lifetime.fi/partners>
+[Developer Portal Beta Program] <https://dev.azure.com/ristopaarni0304/>. 
 
-Join the DWS Developer team: <https://lifetime.fi/careers>
+[Lifetime Certified Partners Consortium] <https://lifetime.fi/partners>. 
 
-dws Public Access DevOps: <https://dev.azure.com/blogtheristo2021/dws%20Platform%204>
+[Join the Montreux Core Developer team] <https://lifetime.fi/careers>. 
 
-dws Marketing Page: <https://lifetime.fi/dws>
+[dws Public Access DevOps and CICD] <https://dev.azure.com/blogtheristo2021/dws%20Platform%204>. 
 
-Investor Insights (invitation contact blogtheristo@lifetime.fi : <https://lifetime.fi/investor>
+[Project Montreux Marketing Page] <https://lifetime.fi/dws>. 
 
-✨ Lifetime™Digital Workspace  - The Cloud sourcing and delivery Platform/ App for Enterprise ecosystems ✨ </n>
+[Investor Insights] (invitation contact blogtheristo@lifetime.fi : <https://lifetime.fi/investor>. 
 
-## The Cloud Teams Sourcing and digital Delivery Platform for intelligent industries
+✨ Lifetime™Digital Workspace  - The Cloud sourcing and delivery Platform/ App for Enterprise ecosystems ✨. 
 
-## About the dws4 project
+## The Cloud Teams Sourcing and digital Delivery Platform for intelligent industries. 
 
-dws 4 Project Development designed to automate, deliver, manage, collaborate with Lifetime™Digital Workers and Virtual Cloud™Ready Teams.
+
 
 Copyright 2021 Lifetime Studios. All Rights reserved.
