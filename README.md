@@ -8,16 +8,32 @@ dws4 is built on cloud native architecture and it uses smart contracts for payin
 
 with dws4 user transforms the experiences into virtual platform and automates the process of solving 6 XGs experience gaps (CX, EX, PX, OX, LX, TX) into tangible business benefits of Customer engagement (), Employee experience(), Partner experience(), Owner experience(), Leadership experience(), Tooling experience().
 
-
-
 (281021) 
  ## Tangible business benefits
- 
-It transforms the experience into virtual and automates the process of solving 6 XGs experience gaps (CX, EX, PX, OX, LX, TX) into tangible business benefits of Customer engagement (), Employee experience(), Partner experience(), Owner experience(), Leadership experience, Tooling experience.
+dws4 is ideal for building an enterprise ecosystem for an intelligent industry that has a development pipeline based on a sustainable World and H2 economy.
 
-dws4 is ideal for building enterprise ecosystem development based on a sustainable World and H2 economy.
+dws4 has built-in security, innovation, high CI/CD new capabilities builds. It is operated with Core Cloud Teams.
 
-Cognitive virtual decisioning platform | Situation Room |  Automated Cloud Ready Teams & Digital Workforce | Industrial Cloud AIoT  | enterprise ecosystem APIs | Innovation Studio | SaaS DevOps Centre | 3rd Party Services |  Certified Partner Consulting |  Freelancers |  API Integration ecosystem | Container Best Practices | Security | Cloud delivery  | Cloud sourcing |  Smart Contract Payments | dApp Platform.
+## Main capabilities of dws4
+
+Cognitive virtual decisioning platform | Situation Room | Automated Cloud Ready Teams & Digital Workforce | Industrial Cloud AIoT | enterprise ecosystem APIs | Innovation Studio | SaaS DevOps Centre | 3rd Party Services | Certified Partner Consulting | Freelancers | Quantum API Integration ecosystem | Container Best Practices | Security | Cloud delivery | Cloud sourcing | Smart Contract Payments | dApp | Metaverse integration 
+
+LifetimeTMDigital Workspace - The Cloud sourcing and delivery Platform ecosystem and App for intelligent industrial Enterprises
+
+LifetimeTMDigitalWorkspace -TheCloudsourcinganddeliveryPlatform/Appfor Enterprise ecosystems
+
+dws4 is designed to automate, deliver, manage, collaborate with LifetimeTMDigital Workers and Virtual CloudTMReady Teams.
+
+### About the dws4 Project “Montreux”
+
+Project Montreux is (dws4) ongoing. The Project Development phase is presented in the Project Montreux PP. Please contact blogtheristo@lifetime.fi to see the latest.
+
+dws4 on GitHub.
+### Fundraising
+
+We accept new investors who share our insight of the need for a platform for intelligent industries.
+
+(281021).
 
 Developer Portal Beta Program: <https://dev.azure.com/ristopaarni0304/>
 
