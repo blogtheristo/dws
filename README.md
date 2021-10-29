@@ -90,7 +90,25 @@ Automated build and deploy pipeline(picture 1),
 
 #### Project Montreux Distributed Development Environment
 
-(soon)
+(soon). 
+
+# The Project Montreux Progress
+
+## Project Progress 11 / 2021. 
+
+### The dws Project Version 4 is accepted as fundable project
+
+⭐ Vestbee project,
+⭐ European Investment Portal EIPP ( needs update)
+⭐ Lifetime Group Pre-Money Valuation is 8 million euros.
+⭐ Please find the full investor relations package on Github.
+⭐ Whitepaper; Managed Sourcing transforms IT Sourcing Practices.
+⭐ build and develop features of dws4 as code and into the dws Github repository.
+⭐ Sales promotion lifetime.fi, press release, investor dd project plan
+⭐ investor deck and dd update
+⭐ partner offering partners
+⭐ Consolidating and updating version 3 requirements / features list up-to Project Montreux MVP.
+
 
 ### More information about Project Montreux
 
