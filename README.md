@@ -26,24 +26,24 @@ Project Montreux Build.
 
 ### Main features
 
-Cognitive virtual decisioning platform.   
-| Situation Room  
-|  Cloud Core Teams  
-|  Digital Workforce Automation.  
-|  Industrial Cloud AIoT.   
-|  enterprise ecosystem APIs.  
-|  Innovation Studio.  
-|  SaaS DevOps Centre.  
-|  3rd Party Services.  
-|  Certified Partner Consulting.  
-|  Freelancers and cloud developers, project managers, cloud solution architect, cloud advisory.   
-|  Quantum API Integration ecosystem.  
-|  Container Best Practices. 
-|  Cloud Security | Cloud delivery  | Cloud sourcing.  
-|  Data Security.  
-|  Smart Contract Payments | dApp. 
-|  Metaverse integration.  
-|  Digital Workforce integration. 
+Cognitive virtual decisioning platform.
+| Situation Room
+| Cloud Core Teams
+| Digital Workforce Automation. Automated Work Tooling experience TX
+| Industrial Cloud AIoT. Intelligent Automation Scripts. Infrastructure as Code Support.
+| enterprise ecosystem APIs.
+| Innovation Studio.
+| SaaS DevOps Centre.
+| 3rd Party Services.
+| Certified Partner Consulting.
+| Freelancers and cloud developers, project managers, cloud solution architect, cloud advisory.
+| Quantum Computing API Integration support. Advanced Analytics Services
+| Container Management Platform integration 
+| Cloud Security | Cloud delivery | Cloud sourcing.
+| Data Security. Data-Driven Services Model.
+| Smart Contract Payments | dApp. | Metaverse integration.
+| Digital Workforce integration. Save Money Multi-Cloud Optimization. Artificial Intelligence Solutions. Neural Networks. Natural Language Processing NLP. Chatbot support.
+
 
 
 ✨ Lifetime™Digital Workspace  - The Cloud sourcing and delivery Platform ecosystem and App for intelligent industrial Enterprises ✨ 
