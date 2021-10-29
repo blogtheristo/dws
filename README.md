@@ -58,11 +58,39 @@ Project Montreux is (dws4) ongoing. The Project Development phase is presented i
 
 [Project Montreux GitHub Kanban is here](<https://github.com/blogtheristo/dws/projects/1>).
 
-### Fundraising
+### Project Montreux Fundraising
 
 We accept new investors who share our insight of the need for a platform for intelligent industries.
 
-(281021).
+### Core Teams
+
+Lifetime Certified Partners Consortium delivers enterprise customers Core Teams that help customers build their ecosystem.
+
+(291021).
+
+# The dws4 Architecture. 
+
+## dws4 cdci continuous build environment on AWS  
+
+### dws4, Project Montreux build;  
+
+#### Architecture definition for Project Montreux  
+
+Project Montreux Build is Cloud Native platform, is created with Serverless First Design principles,  is built as a set of resilient distributed applications and their functions that are loosely coupled microservices that are   developed and executed on multiple cloud platforms (Partners, Customers; on premises, Microsoft Azure, AWS, IBM Cloud, and so on). 
+
+Project Montreux applications are written in various coding languages.  
+(Python, Go, JavaScript, YAML, JSON, Solidity) which are managed with Dapr.  
+Dapr is focused on helping developers build distributed applications,  
+and it does not replace Service Meshes.  
+Both Dapr and service meshes use the sidecar pattern and run alongside the application.  
+
+Project Montreux has Event Driven Architecture that uses APIs. 
+as front door for our modular services , containerization for Purpose-Build DBs,  
+Automated build and deploy pipeline(picture 1),  
+
+#### Project Montreux Distributed Development Environment
+
+(soon)
 
 ### More information about Project Montreux
 
