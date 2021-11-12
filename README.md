@@ -90,26 +90,33 @@ Project Montreux has Event Driven Architecture that uses APIs.
 as front door for our modular services , containerization for Purpose-Build DBs,  
 Automated build and deploy pipeline(picture 1),  
 
-#### Project Montreux Distributed Development Environment
+#### Project Montreux Distributed Development Environment  
+⭐development enviroment setup is ongoing ; ECS on fargate ✔️
+⭐Project team is now selected and 1 to 2 weeks hackathlon and Winter Fun and the shit is done in Eastern Finland with chosen core team.
 
-(soon). 
 
-# The Project Montreux Progress
+# Project Progress Status Report 
 
 ## Project Progress 11 / 2021. 
 
-### The dws Project Version 4 is accepted as fundable project
+### The dws Project Montreux is accepted as fundable project 
 
-⭐ Vestbee project,
+⭐ Vestbee project fundable by VCs;
 ⭐ European Investment Portal EIPP ( needs update)
-⭐ Lifetime Group Pre-Money Valuation is 8 million euros.
+⭐ EBAN Challenge approved project on AWS
+⭐ Lifetime Group Pre-Money Valuation is 8,5 million euros.
 ⭐ Please find the full investor relations package on Github.
 ⭐ Whitepaper; Managed Sourcing transforms IT Sourcing Practices.
 ⭐ build and develop features of dws4 as code and into the dws Github repository.
+⭐ building features of dws and into the dws Github repository.
 ⭐ Sales promotion lifetime.fi, press release, investor dd project plan
-⭐ investor deck and dd update
-⭐ partner offering partners
-⭐ Consolidating and updating version 3 requirements / features list up-to Project Montreux MVP.
+⭐investor deck and due diligence update finalization for Project Montreux.
+⭐ partner offering partners 3-tier model for Certified Partners Applicants.
+⭐ Consolidating and updating version 3 requirements / features list up-to Project Montreux MVP's Project Plan.
+dws for intelligent industries  
+⭐
+
+12.11.2021
 
 
 ### More information about Project Montreux
