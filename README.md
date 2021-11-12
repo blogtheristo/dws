@@ -121,17 +121,17 @@ dws for intelligent industries
 
 ### More information about Project Montreux
 
-[Developer Portal Beta Program] <https://dev.azure.com/ristopaarni0304/>. 
+[Developer Portal Beta Program](<https://dev.azure.com/ristopaarni0304/>). 
 
-[Lifetime Certified Partners Consortium] <https://lifetime.fi/partners>. 
+[Lifetime Certified Partners Consortium](<https://lifetime.fi/partners>). 
 
-[Join the Montreux Core Developer team] <https://lifetime.fi/careers>. 
+[Join the Montreux Core Developer team](<https://lifetime.fi/careers>). 
 
-[dws Public Access DevOps and CICD] <https://dev.azure.com/blogtheristo2021/dws%20Platform%204>. 
+[dws Public Access DevOps and CICD](<https://dev.azure.com/blogtheristo2021/dws%20Platform%204>). 
 
-[Project Montreux Marketing Page] <https://lifetime.fi/dws>. 
+[Project Montreux Marketing Page](<https://lifetime.fi/dws>). 
 
-[Investor Insights] (invitation contact blogtheristo@lifetime.fi : <https://lifetime.fi/investor>. 
+[Investor Insights](<https://lifetime.fi/investor>). 
 
 ✨ Lifetime™Digital Workspace  - The Cloud sourcing and delivery Platform/ App for Enterprise ecosystems ✨. 
 
@@ -139,9 +139,9 @@ dws for intelligent industries
 
 ### DWS platform's responsibility statements
 
-It is at the core of EU's ([DigitalServicesAct]<https://digital-strategy.ec.europa.eu/en/policies/digital-services-act-package>)
-🏁 DWS will not accept algorithms that spread illegal content, hate speech or disinformation.
-🏁 DWS will follow EU's Artificial Intelligence Act will help tackle risks and set common standards.
-🏁 DWS will follow recommendations of European Cyber Resilience Act. 
+[It is at the core of EU's]([DigitalServicesAct]<https://digital-strategy.ec.europa.eu/en/policies/digital-services-act-package>)
+🏁 [DWS will not accept algorithms that spread illegal content, hate speech or disinformation](<https://lifetime.fi>)
+🏁 [DWS will follow EU's Artificial Intelligence Act will help tackle risks and set common standards](<https://lifetime.fi>)
+🏁 [DWS will follow recommendations of European Cyber Resilience Act](<https://lifetime.fi>) 
 
 Copyright 2021 Lifetime Studios. All Rights reserved.
