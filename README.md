@@ -137,6 +137,11 @@ dws for intelligent industries
 
 ## The Cloud Teams Sourcing and digital Delivery Platform for intelligent industries. 
 
+### DWS platform's responsibility statements
 
+It is at the core of EU's ([DigitalServicesAct]<https://digital-strategy.ec.europa.eu/en/policies/digital-services-act-package>)
+🏁 DWS will not accept algorithms that spread illegal content, hate speech or disinformation.
+🏁 DWS will follow EU's Artificial Intelligence Act will help tackle risks and set common standards.
+🏁 DWS will follow recommendations of European Cyber Resilience Act. 
 
 Copyright 2021 Lifetime Studios. All Rights reserved.
