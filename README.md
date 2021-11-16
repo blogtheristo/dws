@@ -113,8 +113,10 @@ Automated build and deploy pipeline(picture 1),
 ⭐investor deck and due diligence update finalization for Project Montreux.
 ⭐ partner offering partners 3-tier model for Certified Partners Applicants.
 ⭐ Consolidating and updating version 3 requirements / features list up-to Project Montreux MVP's Project Plan.
-dws for intelligent industries  
-⭐
+dws for intelligent industries.  
+⭐ Data Model V2
+⭐ Data Model V3
+⭐ Data Model V Four
 
 12.11.2021
 
