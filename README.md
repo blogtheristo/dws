@@ -1,8 +1,12 @@
-# DWS 4 Platform
+# DWS Platform "Project Montreux"
 
 ✨ Lifetime™Digital Workspace ✨
 
-Lifetime™Digital Workspace (dws4) is a Cognitive Decisioning Management Platform for intelligent industries that need automated processes and virtual live teams for their cloud resource sourcing and delivery for their enterprise project development.
+Lifetime™Digital Workspace (DWS) is a Cognitive Decisioning Management Platform for intelligent industries that need automated virtual processes and workflows on multicloud and on the edge while creating competitive advantage in the new hydrogen age.    
+
+DWS makes it easy to use standardized virtual live teams to boost productivity for customer’s cloud journey both human and digital workforce resource planning, scaling and sourcing and delivering enterprise customer projects above expectations.   
+
+DWS is built on cloud native architecture, containerization on multicloud and on edge. It uses smart contracts for paying the developers using ethereum 2.0 protocol using solidity smart contracts. Solidity is an object-oriented, high-level language for implementing smart contracts. Smart contracts are programs which govern the behaviour of accounts within the Ethereum state.
 
 ## DWS Project Montreux Build Principles
 
