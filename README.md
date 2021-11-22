@@ -1,17 +1,19 @@
 # DWS Platform "Project Montreux"
 
 ## Why DWS?
-DWS is an  industrial platform for any company who wishes to trasform its purpose and operations into intelligent industries to survive and to meet the higher standard sustainablility requirements in the forthcoming hydrogen age. Hydrogen age will become mandatory to prevent climate change
+DWS is an industrial platform for any company who wishes to transform its purpose and operations into intelligent industries to survive and to meet the higher standard sustainability requirements in the forthcoming hydrogen age. Hydrogen age will become mandatory to fight and prevent worst-case climate change scenarios.
 
 ### Changing environment and new tougher compliance requirements
 
-The new industrial age Industry 5.0 may require significant changes into company production technologies and its products. Using DWS any company finds it easier to transform into the new industrial age.. 
+The new industrial age Industry 5.0 may require significant changes into company production technologies and its products. Using DWS any company finds it easier to transform into the new industrial age.
 
 ## Invest today into DWS and join the age winners
 We are looking tougher World. AI based DWS platform can help industries to survive this global transformation by using latest cloud computing, AI and machine learning techlogies 
-available on the dws platform. Contact today Risto Anton +358 400 319010 or write an investment letter CEO risto.anton@lifetime.fi to apply for board position in this exciting business opportunity from Lifetime Group.
+We all are looking a tougher World ahead. AI based DWS platform can help industries to survive this global transformation by using latest cloud computing, AI and machine learning technologies available on the dws platform. 
 
-We are looking for investors who share our vision of building sustainable future of industries.
+Contact today Risto Anton +358 400 319010 or write an investment letter of intention to CEO risto.anton@lifetime.fi to apply for board position in this exciting business opportunity from Lifetime Group.
+
+### We are looking for investors who share our vision of building sustainable future of industries.
 
 ✨ Lifetime™Digital Workspace ✨
 
