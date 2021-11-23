@@ -1,25 +1,32 @@
-# DWS Platform "Project Montreux"
+✨ Lifetime™Digital Workspace for intelligent industries ✨
 
-## Why DWS?
+### Version "Project Montreux" 
+
+## Why Lifetime™Digital Workspace for intelligent industries (DWS)?
 DWS is an industrial platform for any company who wishes to transform its purpose and operations into intelligent industries to survive and to meet the higher standard sustainability requirements in the forthcoming hydrogen age. Hydrogen age will become mandatory to fight and prevent worst-case climate change scenarios.
 
-### Changing environment and new tougher compliance requirements
+### Changing environmental tougher compliance requirements - Call-to-Action
 
 The new industrial age Industry 5.0 may require significant changes into company production technologies and its products. Using DWS any company finds it easier to transform into the new industrial age.
 
 ## Invest today into DWS and join the age winners
 
-We are looking a tougher World for any company. AI based DWS platform can help industries to survive this global transformation by using latest cloud computing, AI services and machine learning technologies.
+### We are looking a tougher World for any company. 
 
-We all are looking a tougher World ahead for consumers. Your business offering with new sustainable products will help consumers to build better lives.
+AI based DWS platform can help industries to survive this global transformation by using latest cloud computing, AI services and machine learning technologies available on DWS.
+
+### We all are looking a tougher World ahead for consumers. 
+
+Your business offering with new sustainable products will help consumers to build better lives. 
+DWS makes it easier to transform while answering 6 enterprise gaps boost scale out.
 
 Contact today Risto Anton +358 400 319010 or write an investment letter of intention to CEO risto.anton@lifetime.fi to apply for board position in this exciting business opportunity from Lifetime Group.
 
-### We are looking for investors who share our vision of building sustainable future of industries.
+### We are looking for investors who share our insight of building sustainable future of industries - engineering at scale
 
-✨ Lifetime™Digital Workspace ✨
+✨ Lifetime™Digital Workspace for intelligent industries ✨
 
-Lifetime™Digital Workspace (DWS) is a Cognitive Decisioning Management Platform for intelligent industries that need automated virtual processes and workflows on multicloud and on the edge while creating competitive advantage in the new hydrogen age.    
+Lifetime™Digital Workspace (DWS) for intelligent industries as a SaaS product is a Cognitive Decisioning Management Platform that need automated virtual processes and workflows on multicloud and on the edge while creating competitive advantage by scaling down 6 enterprise gaps in the new hydrogen age.    
 
 DWS makes it easy to use standardized virtual live teams to boost productivity for customer’s cloud journey both human and digital workforce resource planning, scaling and sourcing and delivering enterprise customer projects above expectations.   
 
