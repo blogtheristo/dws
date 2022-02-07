@@ -55,22 +55,22 @@ Cognitive virtual decisioning platform | Situation Room |  Automated Cloud Ready
 
 Developer Portal Beta Program: <https://dev.azure.com/ristopaarni0304/>
 
-Lifetime Certified Partners Consortium: <https://lifetime.fi/partners>
+Lifetime Certified Partners Consortium: <https://dws10.com/partners>
 
-Join the DWS Developer team: <https://lifetime.fi/careers>
+Join the DWS Developer team: <https://dws10.com/careers>
 
-dws Public Access DevOps: <https://dev.azure.com/blogtheristo2021/dws%20Platform%204>
+DWS Public Access DevOps: <https://dev.azure.com/blogtheristo2021/dws%20Platform%204>
 
-dws Marketing Page: <https://lifetime.fi/dws>
+DWS Product Information Page: <https://dws10.com/dws>
 
-Investor Insights (invitation contact blogtheristo@lifetime.fi : <https://lifetime.fi/investor>
+DWS Investor Insights (invitation contact blogtheristo@lifetime.fi : <https://lifetime.fi/investor>
 
 ✨ Lifetime™Digital Workspace  - The Cloud sourcing and delivery Platform/ App for Enterprise ecosystems ✨ </n>
 
 ## The Cloud Teams Sourcing and digital Delivery Platform for intelligent industries
 
-## About the dws4 project
+## About the DWS4 Project Montreux
 
-dws 4 Project Development designed to automate, deliver, manage, collaborate with Lifetime™Digital Workers and Virtual Cloud™Ready Teams.
+DWS 4 Project Development designed to automate, deliver, manage, collaborate with Lifetime™Digital Workers and Virtual Cloud™Ready Teams.
 
 Copyright 2022 Lifetime Studios. All Rights reserved.
