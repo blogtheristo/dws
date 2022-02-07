@@ -73,4 +73,4 @@ Investor Insights (invitation contact blogtheristo@lifetime.fi : <https://lifeti
 
 dws 4 Project Development designed to automate, deliver, manage, collaborate with Lifetime™Digital Workers and Virtual Cloud™Ready Teams.
 
-Copyright 2021 Lifetime Studios. All Rights reserved.
+Copyright 2022 Lifetime Studios. All Rights reserved.
