@@ -3,7 +3,14 @@
 ### Version "Project Montreux" 
 
 ## Why Lifetime™Digital Workspace for intelligent industries (DWS)?
-DWS is an industrial platform for any company who wishes to transform its purpose and operations into intelligent industries to survive and to meet the higher standard sustainability requirements in the forthcoming hydrogen age. Hydrogen age will become mandatory to fight and prevent worst-case climate change scenarios.
+DWS is an industrial platform for industrial enterprises who wishes to transform   
+its purpose and operations into intelligent industries using Artificial intelligence and data-driven decisioning,
+to survive the transition of electrification and industrial governance requirements,
+and to meet the high standards of the sustainability age requirements,
+while offering to the customer the leading edge products and services,
+in the new electrification and hydrogen age. 
+
+Hydrogen age will become mandatory to fight and prevent worst-case climate change scenarios.
 
 ### Changing environmental tougher compliance requirements - Call-to-Action
 
@@ -48,22 +55,22 @@ Cognitive virtual decisioning platform | Situation Room |  Automated Cloud Ready
 
 Developer Portal Beta Program: <https://dev.azure.com/ristopaarni0304/>
 
-Lifetime Certified Partners Consortium: <https://lifetime.fi/partners>
+Lifetime Certified Partners Consortium: <https://dws10.com/partners>
 
-Join the DWS Developer team: <https://lifetime.fi/careers>
+Join the DWS Developer team: <https://dws10.com/careers>
 
-dws Public Access DevOps: <https://dev.azure.com/blogtheristo2021/dws%20Platform%204>
+DWS Public Access DevOps: <https://dev.azure.com/blogtheristo2021/dws%20Platform%204>
 
-dws Marketing Page: <https://lifetime.fi/dws>
+DWS Product Information Page: <https://dws10.com/dws>
 
-Investor Insights (invitation contact blogtheristo@lifetime.fi : <https://lifetime.fi/investor>
+DWS Investor Insights (invitation contact blogtheristo@lifetime.fi : <https://lifetime.fi/investor>
 
 ✨ Lifetime™Digital Workspace  - The Cloud sourcing and delivery Platform/ App for Enterprise ecosystems ✨ </n>
 
 ## The Cloud Teams Sourcing and digital Delivery Platform for intelligent industries
 
-## About the dws4 project
+## About the DWS4 Project Montreux
 
-dws 4 Project Development designed to automate, deliver, manage, collaborate with Lifetime™Digital Workers and Virtual Cloud™Ready Teams.
+DWS 4 Project Development designed to automate, deliver, manage, collaborate with Lifetime™Digital Workers and Virtual Cloud™Ready Teams.
 
-Copyright 2021 Lifetime Studios. All Rights reserved.
+Copyright 2022 Lifetime Studios. All Rights reserved.
