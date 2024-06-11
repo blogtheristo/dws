@@ -1,15 +1,18 @@
 ✨ Lifetime™Digital Workspace for intelligent industries ✨
 
-### Version "Project Montreux" 
+### Version "Project Edmonton" 
 
-## Why Lifetime™Digital Workspace for intelligent industries (DWS)?
+## Why Lifetime™IQ for intelligent industries (DWS)?
 
 DWS is an industrial platform for industrial enterprises who wishes to transform   
-its purpose and operations into intelligent industries using Artificial intelligence and data-driven decisioning,
-to survive the transition of electrification and industrial governance requirements,
-and to meet the high standards of the sustainability age requirements,
-while offering to the customer the leading edge products and services,
-in the new electrification and hydrogen age 
+its purpose and operations into intelligent industries using Physical Artificial intelligence and data-driven decisioning.
+
+to survive 
+✨ the transition of electrification and H2 solutions, 
+✨ New EU AI Act and further advancing industrial governance requirements,
+✨ to meet the high standards of the sustainability age requirements,
+
+while offering to the customer the leading edge products and services. 
 
 Hydrogen age will become mandatory to fight and prevent worst-case climate change scenarios.
 
