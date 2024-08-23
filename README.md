@@ -5,7 +5,16 @@
 ✨ Lifetime™Quantum Elements.✨  
 ✨ Lifetime™Robotics. Lifetime™Cloud. ✨  
 ✨ DWS™IQ for intelligent industries ✨  
-  
+
+  Lifetime Happiness = Livelihood Independence + Prosperity Creation 
+– Carbon Footprint – Erosion expansion – Droughts mitigation
+
+![image](https://github.com/user-attachments/assets/87d7ab1d-7f38-41d2-a0b9-1d44427958d4)
+
+
+Renewable Energy + Solar + Wind + H2 + Storage + Electricity + Heath/Cool + Water + Food + Fuel + Land
+![image](https://github.com/user-attachments/assets/69bf178f-027e-4b88-a559-cbec6019069c)
+
 ## Why Lifetime™IQ for intelligent industries (DWS)?
 
 DWS is an industrial platform for industrial enterprises who wishes to transform   
