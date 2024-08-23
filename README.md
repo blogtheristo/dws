@@ -1,7 +1,11 @@
-✨ Lifetime™Digital Workspace for intelligent industries ✨
-
-### Version "Project Edmonton" 
-
+✨ DWS™IQ for intelligent industries ✨   
+✨ Lifetime™World. Lifetime Friends. Sustainability™Partner.✨   
+✨ Lifetime™World Coin ($LTW). Lifetime World Coin®.  LTWCash®. LTWCerfificate®. LTWCert®. ✨   
+✨ DWS™IQ. Lifetime™AIQ solutions. LTW™Investor Studio. Lifetime™RAG AI.✨   
+✨ Lifetime™Quantum Elements.✨  
+✨ Lifetime™Robotics. Lifetime™Cloud. ✨  
+✨ DWS™IQ for intelligent industries ✨  
+  
 ## Why Lifetime™IQ for intelligent industries (DWS)?
 
 DWS is an industrial platform for industrial enterprises who wishes to transform   
