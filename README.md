@@ -4,7 +4,8 @@
 ✨ DWS™IQ. Lifetime™AIQ solutions. LTW™Investor Studio. Lifetime™RAG AI.✨   
 ✨ Lifetime™Quantum Elements.✨  
 ✨ Lifetime™Robotics. Lifetime™Cloud. ✨  
-✨ DWS™IQ for intelligent industries ✨  
+✨ DWS™IQ for intelligent industries ✨
+✨ Lifetime Studio 2026 ✨
 
   Lifetime Happiness = Livelihood Independence + Prosperity Creation 
 – Carbon Footprint – Erosion expansion – Droughts mitigation
