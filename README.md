@@ -81,7 +81,11 @@ DWS Public Access DevOps: <https://dev.azure.com/blogtheristo2021/dws%20Platform
 
 DWS Product Information Page: <https://dws10.com/dws>
 
-DWS Investor Insights (invitation contact blogtheristo@lifetime.fi : <https://lifetime.fi/investor>
+DWS Investor Insights (invitation contact blogtheristo@lifetime.fi : <https://lifetime.fi/investor>  
+
+Lifetime Scope Journal (<https://lifetime.fi/blog>)  
+
+DWS Homepage (<https://lifetime.fi/dws>)  
 
 ✨ Lifetime™Digital Workspace  - The Cloud sourcing and delivery Platform/ App for Enterprise ecosystems ✨ </n>
 
@@ -91,4 +95,4 @@ DWS Investor Insights (invitation contact blogtheristo@lifetime.fi : <https://li
 
 DWS 4 Project Development designed to automate, deliver, manage, collaborate with Lifetime™Digital Workers and Virtual Cloud™Ready Teams.
 
-Copyright 2022 Lifetime Studios. All Rights reserved.
+Copyright 2021-2026 Lifetime Studio 2026. All Rights reserved.
