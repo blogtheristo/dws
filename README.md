@@ -91,8 +91,8 @@ DWS Homepage (<https://lifetime.fi/dws>)
 
 ## The Cloud Teams Sourcing and digital Delivery Platform for intelligent industries
 
-## About the DWS4 Project Montreux
+## About the DWS IQ Project Montreux
 
-DWS 4 Project Development designed to automate, deliver, manage, collaborate with Lifetime™Digital Workers and Virtual Cloud™Ready Teams.
+DWS 4, 5, 6 Project Development designed to automate, deliver, manage, collaborate with Lifetime™Godagents and Human Cloud™Ready Teams.
 
 Copyright 2021-2026 Lifetime Studio 2026. All Rights reserved.
